@@ -562,10 +562,10 @@ export default function Home() {
               <div>
                 <h4 className="text-lg font-bold text-gray-800 mb-4">Siga-nos nas Redes Sociais</h4>
                 <div className="flex space-x-4">
-                  <a href="#" className="w-12 h-12 bg-pink-500 rounded-full flex items-center justify-center text-white hover:bg-pink-600 transition-colors">
+                  <a href="https://www.instagram.com/grupohigienizar/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 bg-pink-500 rounded-full flex items-center justify-center text-white hover:bg-pink-600 transition-colors">
                     <Instagram className="w-6 h-6" />
                   </a>
-                  <a href="#" className="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center text-white hover:bg-blue-700 transition-colors">
+                  <a href="https://www.facebook.com/profile.php?id=100091340771486" target="_blank" rel="noopener noreferrer" className="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center text-white hover:bg-blue-700 transition-colors">
                     <Facebook className="w-6 h-6" />
                   </a>
                   <a href="#" className="w-12 h-12 bg-red-500 rounded-full flex items-center justify-center text-white hover:bg-red-600 transition-colors">
